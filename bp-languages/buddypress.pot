@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BuddyPress \n"
 "Report-Msgid-Bugs-To: http://wppolyglots.wordpress.com\n"
-"POT-Creation-Date: 2013-07-27 18:35:29+00:00\n"
+"POT-Creation-Date: 2013-11-21 18:35:35+00:00\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -118,14 +118,25 @@ msgstr ""
 msgid "Public group activity feed of which %s is a member of."
 msgstr ""
 
+#. translators: User mentions activity RSS title - "[Site Name] | [User Display
+#. Name] | Mentions"
+
+#: bp-activity/bp-activity-actions.php:577
+msgid "%1$s | %2$s | Mentions"
+msgstr ""
+
+#: bp-activity/bp-activity-actions.php:580
+msgid "Activity feed mentioning %s."
+msgstr ""
+
 #. translators: User activity favorites RSS title - "[Site Name] | [User
 #. Display Name] | Favorites"
 
-#: bp-activity/bp-activity-actions.php:608
+#: bp-activity/bp-activity-actions.php:615
 msgid "%1$s | %2$s | Favorites"
 msgstr ""
 
-#: bp-activity/bp-activity-actions.php:611
+#: bp-activity/bp-activity-actions.php:618
 msgid "Activity feed of %s's favorites."
 msgstr ""
 
@@ -937,7 +948,7 @@ msgstr ""
 msgid "Profile picture of site author %s"
 msgstr ""
 
-#: bp-blogs/bp-blogs-template.php:403 bp-core/bp-core-classes.php:774
+#: bp-blogs/bp-blogs-template.php:403 bp-core/bp-core-classes.php:773
 #: bp-groups/bp-groups-widgets.php:80 bp-groups/bp-groups-widgets.php:183
 #: bp-members/bp-members-template.php:596
 #: bp-members/bp-members-template.php:871
@@ -1703,8 +1714,8 @@ msgstr ""
 msgid "Upload failed! Error was: %s"
 msgstr ""
 
-#: bp-core/bp-core-avatars.php:733 bp-core/bp-core-classes.php:771
-#: bp-core/bp-core-classes.php:772 bp-core/bp-core-classes.php:773
+#: bp-core/bp-core-avatars.php:733 bp-core/bp-core-classes.php:770
+#: bp-core/bp-core-classes.php:771 bp-core/bp-core-classes.php:772
 #: bp-core/bp-core-template.php:98 bp-core/bp-core-template.php:107
 msgid "Avatar of %s"
 msgstr ""
@@ -1755,7 +1766,7 @@ msgstr ""
 msgid "You must log in to access the page you requested."
 msgstr ""
 
-#: bp-core/bp-core-classes.php:788
+#: bp-core/bp-core-classes.php:787
 msgid "%d group"
 msgid_plural "%d groups"
 msgstr[0] ""
@@ -3001,7 +3012,7 @@ msgstr ""
 msgid "Delete Group"
 msgstr ""
 
-#: bp-groups/bp-groups-admin.php:863 bp-groups/bp-groups-classes.php:2121
+#: bp-groups/bp-groups-admin.php:863 bp-groups/bp-groups-classes.php:2114
 #: bp-templates/bp-legacy/buddypress/groups/single/admin.php:32
 #: bp-templates/bp-legacy/buddypress/groups/single/admin.php:117
 #: bp-templates/bp-legacy/buddypress/groups/single/forum/edit.php:58
@@ -3126,11 +3137,11 @@ msgstr ""
 msgid "Group Avatar"
 msgstr ""
 
-#: bp-groups/bp-groups-classes.php:1303
+#: bp-groups/bp-groups-classes.php:1298
 msgid "Group Mod"
 msgstr ""
 
-#: bp-groups/bp-groups-classes.php:1309 bp-groups/bp-groups-functions.php:121
+#: bp-groups/bp-groups-classes.php:1304 bp-groups/bp-groups-functions.php:121
 msgid "Group Admin"
 msgstr ""
 
