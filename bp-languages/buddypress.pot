@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BuddyPress \n"
 "Report-Msgid-Bugs-To: http://wppolyglots.wordpress.com\n"
-"POT-Creation-Date: 2014-02-05 21:35:26+00:00\n"
+"POT-Creation-Date: 2014-03-18 17:30:49+00:00\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -145,7 +145,7 @@ msgstr ""
 #: bp-activity/bp-activity-loader.php:132
 #: bp-activity/bp-activity-loader.php:261
 #: bp-activity/bp-activity-screens.php:270
-#: bp-activity/bp-activity-screens.php:437 bp-core/bp-core-admin.php:466
+#: bp-activity/bp-activity-screens.php:437 bp-core/bp-core-admin.php:469
 msgid "Activity"
 msgstr ""
 
@@ -1294,7 +1294,7 @@ msgid "Pages"
 msgstr ""
 
 #: bp-core/admin/bp-core-functions.php:390
-#: bp-core/admin/bp-core-settings.php:258 bp-core/bp-core-admin.php:375
+#: bp-core/admin/bp-core-settings.php:258 bp-core/bp-core-admin.php:378
 #: bp-groups/bp-groups-loader.php:304 bp-groups/bp-groups-template.php:1466
 #: bp-settings/bp-settings-loader.php:23 bp-settings/bp-settings-loader.php:73
 #: bp-settings/bp-settings-loader.php:163
@@ -1341,8 +1341,8 @@ msgstr ""
 msgid "Your users will distinguish themselves through their profile page. Create relevant profile fields that will show on each users profile.</br></br>Note: Any fields in the first group will appear on the signup page."
 msgstr ""
 
-#: bp-core/admin/bp-core-functions.php:697 bp-core/bp-core-admin.php:200
-#: bp-core/bp-core-admin.php:201 bp-core/bp-core-admin.php:221
+#: bp-core/admin/bp-core-functions.php:697 bp-core/bp-core-admin.php:203
+#: bp-core/bp-core-admin.php:204 bp-core/bp-core-admin.php:224
 msgid "BuddyPress"
 msgstr ""
 
@@ -1462,144 +1462,144 @@ msgstr ""
 msgid "Associate WordPress Pages with the following BuddyPress Registration pages."
 msgstr ""
 
-#: bp-core/bp-core-admin.php:180 bp-core/bp-core-admin.php:181
-#: bp-core/bp-core-admin.php:189 bp-core/bp-core-admin.php:190
+#: bp-core/bp-core-admin.php:183 bp-core/bp-core-admin.php:184
+#: bp-core/bp-core-admin.php:192 bp-core/bp-core-admin.php:193
 msgid "Welcome to BuddyPress"
 msgstr ""
 
-#: bp-core/bp-core-admin.php:210
+#: bp-core/bp-core-admin.php:213
 msgid "BuddyPress Help"
 msgstr ""
 
-#: bp-core/bp-core-admin.php:211
+#: bp-core/bp-core-admin.php:214
 msgid "Help"
 msgstr ""
 
-#: bp-core/bp-core-admin.php:220
+#: bp-core/bp-core-admin.php:223
 msgid "BuddyPress Components"
 msgstr ""
 
-#: bp-core/bp-core-admin.php:229 bp-core/bp-core-admin.php:230
+#: bp-core/bp-core-admin.php:232 bp-core/bp-core-admin.php:233
 msgid "BuddyPress Pages"
 msgstr ""
 
-#: bp-core/bp-core-admin.php:238 bp-core/bp-core-admin.php:239
+#: bp-core/bp-core-admin.php:241 bp-core/bp-core-admin.php:242
 msgid "BuddyPress Settings"
 msgstr ""
 
-#: bp-core/bp-core-admin.php:265
+#: bp-core/bp-core-admin.php:268
 msgid "Main Settings"
 msgstr ""
 
-#: bp-core/bp-core-admin.php:268 bp-core/bp-core-admin.php:273
+#: bp-core/bp-core-admin.php:271 bp-core/bp-core-admin.php:276
 msgid "Toolbar"
 msgstr ""
 
-#: bp-core/bp-core-admin.php:278
+#: bp-core/bp-core-admin.php:281
 msgid "Account Deletion"
 msgstr ""
 
-#: bp-core/bp-core-admin.php:286
+#: bp-core/bp-core-admin.php:289
 msgid "Profile Settings"
 msgstr ""
 
-#: bp-core/bp-core-admin.php:289
+#: bp-core/bp-core-admin.php:292
 msgid "Avatar Uploads"
 msgstr ""
 
-#: bp-core/bp-core-admin.php:293
+#: bp-core/bp-core-admin.php:296
 msgid "Profile Syncing"
 msgstr ""
 
-#: bp-core/bp-core-admin.php:302
+#: bp-core/bp-core-admin.php:305
 msgid "Groups Settings"
 msgstr ""
 
-#: bp-core/bp-core-admin.php:305
+#: bp-core/bp-core-admin.php:308
 msgid "Group Creation"
 msgstr ""
 
-#: bp-core/bp-core-admin.php:314
+#: bp-core/bp-core-admin.php:317
 msgid "Legacy Group Forums"
 msgstr ""
 
-#: bp-core/bp-core-admin.php:317
+#: bp-core/bp-core-admin.php:320
 msgid "bbPress Configuration"
 msgstr ""
 
-#: bp-core/bp-core-admin.php:326
+#: bp-core/bp-core-admin.php:329
 msgid "Activity Settings"
 msgstr ""
 
-#: bp-core/bp-core-admin.php:329
+#: bp-core/bp-core-admin.php:332
 msgid "Blog &amp; Forum Comments"
 msgstr ""
 
-#: bp-core/bp-core-admin.php:334
+#: bp-core/bp-core-admin.php:337
 msgid "Akismet"
 msgstr ""
 
-#: bp-core/bp-core-admin.php:352
+#: bp-core/bp-core-admin.php:355
 msgid "About BuddyPress"
 msgstr ""
 
-#: bp-core/bp-core-admin.php:376
+#: bp-core/bp-core-admin.php:379
 msgid "About"
 msgstr ""
 
-#: bp-core/bp-core-admin.php:427 bp-core/bp-core-admin.php:552
+#: bp-core/bp-core-admin.php:430 bp-core/bp-core-admin.php:557
 msgid "Welcome to BuddyPress %s"
 msgstr ""
 
-#: bp-core/bp-core-admin.php:430
+#: bp-core/bp-core-admin.php:433
 msgid "It&#8217;s a great time to use BuddyPress! %s is our first version with a new component in over two years. Not only that, there are plenty of new features, enhancements, and bug fixes."
 msgstr ""
 
-#: bp-core/bp-core-admin.php:432
+#: bp-core/bp-core-admin.php:435
 msgid "Thanks for updating! BuddyPress %s is our first version with a new component in over two years. Not only that, there are plenty of new features, enhancements, and bug fixes."
 msgstr ""
 
-#: bp-core/bp-core-admin.php:437
+#: bp-core/bp-core-admin.php:440
 msgid "Check out the highlights:"
 msgstr ""
 
-#: bp-core/bp-core-admin.php:440
+#: bp-core/bp-core-admin.php:443
 msgid "You can now add dynamic BuddyPress links to custom navigation menus."
 msgstr ""
 
-#: bp-core/bp-core-admin.php:441
+#: bp-core/bp-core-admin.php:444
 msgid "Notifications have been moved into their own component."
 msgstr ""
 
-#: bp-core/bp-core-admin.php:442
+#: bp-core/bp-core-admin.php:445
 msgid "Three new widgets, allowing easier site customization."
 msgstr ""
 
-#: bp-core/bp-core-admin.php:446 bp-core/bp-core-admin.php:554
+#: bp-core/bp-core-admin.php:449 bp-core/bp-core-admin.php:559
 msgid "Version %s"
 msgstr ""
 
-#: bp-core/bp-core-admin.php:450 bp-core/bp-core-admin.php:558
+#: bp-core/bp-core-admin.php:453 bp-core/bp-core-admin.php:563
 msgid "What&#8217;s New"
 msgstr ""
 
-#: bp-core/bp-core-admin.php:452 bp-core/bp-core-admin.php:560
+#: bp-core/bp-core-admin.php:455 bp-core/bp-core-admin.php:565
 msgid "Credits"
 msgstr ""
 
-#: bp-core/bp-core-admin.php:457
+#: bp-core/bp-core-admin.php:460
 msgid "Getting Started"
 msgstr ""
 
-#: bp-core/bp-core-admin.php:460
+#: bp-core/bp-core-admin.php:463
 msgid "Your Default Setup"
 msgstr ""
 
-#: bp-core/bp-core-admin.php:464
+#: bp-core/bp-core-admin.php:467
 msgid "BuddyPress&#8217;s powerful features help your users connect and collaborate. To help get your community started, we&#8217;ve activated two of the most commonly used tools in BP: <strong>Extended Profiles</strong> and <strong>Activity Streams</strong>. See these components in action at the %1$s and %2$s directories, and be sure to spend a few minutes <a href=\"%3$s\">configuring user profiles</a>. Want to explore more of BP&#8217;s features? Visit the <a href=\"%4$s\">Components panel</a>."
 msgstr ""
 
-#: bp-core/bp-core-admin.php:465 bp-core/bp-core-template.php:361
+#: bp-core/bp-core-admin.php:468 bp-core/bp-core-template.php:361
 #: bp-core/bp-core-widgets.php:266 bp-groups/bp-groups-admin.php:776
 #: bp-groups/bp-groups-template.php:1474 bp-members/bp-members-loader.php:24
 #: bp-members/bp-members-screens.php:368
@@ -1608,107 +1608,107 @@ msgstr ""
 msgid "Members"
 msgstr ""
 
-#: bp-core/bp-core-admin.php:473
+#: bp-core/bp-core-admin.php:476
 msgid "BuddyPress&#8217;s powerful features help your users connect and collaborate. Want to explore BP&#8217;s features? Visit the <a href=\"%s\">Components panel</a>."
 msgstr ""
 
-#: bp-core/bp-core-admin.php:479
+#: bp-core/bp-core-admin.php:482
 msgid "Community and Support"
 msgstr ""
 
-#: bp-core/bp-core-admin.php:480
+#: bp-core/bp-core-admin.php:483
 msgid "Looking for help? The <a href=\"http://codex.buddypress.org/\">BuddyPress Codex</a> has you covered, with dozens of user-contributed guides on how to configure and use your BP site. Can&#8217;t find what you need? Stop by <a href=\"http://buddypress.org/support/\">our support forums</a>, where a vibrant community of BuddyPress users and developers is waiting to share tips, show off their sites, talk about the future of BuddyPress, and much more."
 msgstr ""
 
-#: bp-core/bp-core-admin.php:487
+#: bp-core/bp-core-admin.php:490
 msgid "Dynamic links for custom navigation menus"
 msgstr ""
 
-#: bp-core/bp-core-admin.php:490
+#: bp-core/bp-core-admin.php:493
 msgid "It&#8217;s now easy to add BuddyPress-specific links to your menus through <a href=\"%s\">Appearance &gt; Menus</a>. For example, you can now add a link to a specific user profile screen, and each person will end up at that screen inside their own user profile."
 msgstr ""
 
-#: bp-core/bp-core-admin.php:496
+#: bp-core/bp-core-admin.php:499
 msgid "Notifications component"
 msgstr ""
 
-#: bp-core/bp-core-admin.php:499
+#: bp-core/bp-core-admin.php:502
 msgid "The notification features have been promoted into a new component. Use it to keep your site&#8217;s members abreast of the latest connections and @mentions within the site, via email notifications and Toolbar alerts."
 msgstr ""
 
-#: bp-core/bp-core-admin.php:506
+#: bp-core/bp-core-admin.php:509
 msgid "Widgets"
 msgstr ""
 
-#: bp-core/bp-core-admin.php:510
+#: bp-core/bp-core-admin.php:513
 msgid "<strong>Friends Widget</strong>: a list of recently active, popular, and newest friends of the displayed member."
 msgstr ""
 
-#: bp-core/bp-core-admin.php:511
+#: bp-core/bp-core-admin.php:514
 msgid "<strong>Log In Widget</strong>: adds a simple &ldquo;Log In&rdquo; form to your site."
 msgstr ""
 
-#: bp-core/bp-core-admin.php:512
+#: bp-core/bp-core-admin.php:515
 msgid "<strong>Sitewide Notices Widget</strong>: display Sitewide Notices from the Private Messaging component."
 msgstr ""
 
-#: bp-core/bp-core-admin.php:519
+#: bp-core/bp-core-admin.php:522
 msgid "Developer changes"
 msgstr ""
 
-#: bp-core/bp-core-admin.php:523
+#: bp-core/bp-core-admin.php:526
 msgid "<code>bp_redirect_canonical()</code> functionality has been reinstated"
 msgstr ""
 
-#: bp-core/bp-core-admin.php:524
+#: bp-core/bp-core-admin.php:527
 msgid "Improved phpDoc inline documentation"
 msgstr ""
 
-#: bp-core/bp-core-admin.php:525
+#: bp-core/bp-core-admin.php:528
 msgid "Improved compatibility with <a href=\"%s\">develop.svn.wordpress.org</a> unit-test suite"
 msgstr ""
 
-#: bp-core/bp-core-admin.php:526
+#: bp-core/bp-core-admin.php:529
 msgid "<a href=\"%s\">&hellip;and lots more!</a>"
 msgstr ""
 
-#: bp-core/bp-core-admin.php:531 bp-core/bp-core-admin.php:662
+#: bp-core/bp-core-admin.php:535 bp-core/bp-core-admin.php:668
 msgid "Go to the BuddyPress Settings page"
 msgstr ""
 
-#: bp-core/bp-core-admin.php:553
+#: bp-core/bp-core-admin.php:558
 msgid "BuddyPress %s is our first version with a new component in over two years. Not only that, there are plenty of new features, enhancements, and bug fixes."
 msgstr ""
 
-#: bp-core/bp-core-admin.php:564
+#: bp-core/bp-core-admin.php:569
 msgid "BuddyPress is created by a worldwide network of friendly folks."
 msgstr ""
 
-#: bp-core/bp-core-admin.php:566
+#: bp-core/bp-core-admin.php:571
 msgid "Project Leaders"
 msgstr ""
 
-#: bp-core/bp-core-admin.php:571
+#: bp-core/bp-core-admin.php:576
 msgid "Founding Developer"
 msgstr ""
 
-#: bp-core/bp-core-admin.php:576
+#: bp-core/bp-core-admin.php:581
 msgid "Project Lead"
 msgstr ""
 
-#: bp-core/bp-core-admin.php:581 bp-core/bp-core-admin.php:586
+#: bp-core/bp-core-admin.php:586 bp-core/bp-core-admin.php:591
 msgid "Lead Developer"
 msgstr ""
 
-#: bp-core/bp-core-admin.php:590
+#: bp-core/bp-core-admin.php:595
 msgid "Core Developers"
 msgstr ""
 
-#: bp-core/bp-core-admin.php:598
+#: bp-core/bp-core-admin.php:603
 msgid "Recent Rockstars"
 msgstr ""
 
-#: bp-core/bp-core-admin.php:618
+#: bp-core/bp-core-admin.php:623
 msgid "Contributors to BuddyPress 1.9"
 msgstr ""
 
