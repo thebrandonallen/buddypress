@@ -923,7 +923,9 @@ function bp_legacy_theme_mark_activity_favorite() {
 	if ( 'POST' !== strtoupper( $_SERVER['REQUEST_METHOD'] ) )
 		return;
 
-	if ( ! isset( $_POST['nonce'] ) || ! wp_verify_nonce( wp_unslash( $_POST['nonce'] ), 'mark_favorite' ) ) {
+	// Either the 'mark' or 'unmark' nonce is accepted, for backward compatibility.
+	$nonce = wp_unslash( $_POST['nonce'] );
+	if ( ! wp_verify_nonce( $nonce, 'mark_favorite' ) && ! wp_verify_nonce( $nonce, 'unmark_favorite' ) ) {
 		return;
 	}
 
@@ -946,7 +948,9 @@ function bp_legacy_theme_unmark_activity_favorite() {
 	if ( 'POST' !== strtoupper( $_SERVER['REQUEST_METHOD'] ) )
 		return;
 
-	if ( ! isset( $_POST['nonce'] ) || ! wp_verify_nonce( wp_unslash( $_POST['nonce'] ), 'unmark_favorite' ) ) {
+	// Either the 'mark' or 'unmark' nonce is accepted, for backward compatibility.
+	$nonce = wp_unslash( $_POST['nonce'] );
+	if ( ! wp_verify_nonce( $nonce, 'mark_favorite' ) && ! wp_verify_nonce( $nonce, 'unmark_favorite' ) ) {
 		return;
 	}
 
