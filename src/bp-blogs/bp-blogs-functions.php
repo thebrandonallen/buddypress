@@ -98,9 +98,14 @@ function bp_blogs_get_blogs( $args = '' ) {
 function bp_blogs_record_existing_blogs( $args = array() ) {
 	global $wpdb;
 
+	$offset = 0;
+	if ( is_numeric( bp_get_option( '_bp_record_blogs_offset' ) ) ) {
+		$offset = (int) bp_get_option( '_bp_record_blogs_offset' );
+	}
+
 	// Query for all sites in network.
 	$r = bp_parse_args( $args, array(
-		'offset'   => false === bp_get_option( '_bp_record_blogs_offset' ) ? 0 : (int) bp_get_option( '_bp_record_blogs_offset' ),
+		'offset'   => $offset,
 		'limit'    => 50,
 		'blog_ids' => array(),
 		'site_id'  => $wpdb->siteid
