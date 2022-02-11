@@ -30,7 +30,7 @@
 		"grunt-sass": "~3.1.0",
 		"grunt-stylelint": "~0.16.0",
 		"matchdep": "~2.0.0",
-		"node-sass": "~6.0.1",
+		"node-sass": "~7.0.0",
 		"parcel-bundler": "~1.12.5",
 		"phplint": "~2.0.5",
 		"postcss": "~8.3.6",
