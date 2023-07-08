@@ -35,7 +35,7 @@
 		"phplint": "~2.0.5",
 		"postcss": "~8.3.6",
 		"postcss-scss": "~4.0.0",
-		"stylelint": "~13.13.1"
+		"stylelint": "~15.10.1"
 	},
 	"engines": {
 		"node": ">=14.15.0",
